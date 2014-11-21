@@ -1,8 +1,8 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="multimedia_volume" id="5" x="1" y="4">
+  <block type="multimedia_volume" id="1" x="1" y="4">
     <field name="VOLUME">HIGH</field>
     <next>
-      <block type="multimedia_playwav" id="1">
+      <block type="multimedia_playwav" id="2">
         <field name="WAV">kiss.w</field>
       </block>
     </next>
