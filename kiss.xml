@@ -1,1 +1,5 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="multimedia_playwav" id="4" x="3" y="5">
+    <field name="WAV">kiss.w</field>
+  </block>
+</xml>
